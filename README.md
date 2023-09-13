@@ -1,7 +1,7 @@
 # Theme for RGB Glow Tube Clocks
 Theme for RGB Glow Tube Clocks
 
-**YOUTUBE VIDEO:  XXX**
+**YOUTUBE VIDEO: https://youtu.be/Q-yf9hQRpU4**
 
 
 Links from the video:
