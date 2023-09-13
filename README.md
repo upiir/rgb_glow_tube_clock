@@ -21,6 +21,12 @@ Similar YouTube videos:
 ![THUMB_rgb_tube_clocks2](https://github.com/upiir/rgb_glow_tube_clock/assets/117754156/728312a7-f73b-488b-9b61-717084e8d73d)
 
 
+Small animation:
+
+![rgb_tube_clock_longer](https://github.com/upiir/rgb_glow_tube_clock/assets/117754156/524fdc25-911e-4799-b015-aee75c931fce)
+
+
+
 
 Screenshots from the video:
 
